@@ -1,4 +1,5 @@
-# Java ATM Machine Simulation
+#BankIT
+
 
 This is a beginner-friendly Java project that simulates a basic ATM (Automated Teller Machine) system. The goal is to learn core programming concepts like variables, loops, conditionals, input handling, and lists.
 
