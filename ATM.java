@@ -7,7 +7,7 @@ public class ATM {
 
     boolean runner = true;
     double balance = 0.0; 
-
+//create an array for all the things the bank could do 
     ArrayList<String> transactionHistory = new ArrayList<>();
     while(runner) {
         System.out.println("\"====== BANK OF AMERICA ======\"");
