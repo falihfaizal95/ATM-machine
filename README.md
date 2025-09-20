@@ -14,7 +14,7 @@ This is a beginner-friendly Java project that simulates a basic ATM (Automated T
 ## 🧠 Concepts Learned
 
 - Java variables (`double`, `int`, `boolean`)
-- `Scanner` for user input
+- `Scanner` for user input.
 - `while` loops and `if-else` conditionals
 - `ArrayList<String>` for storing transaction history
 - Error checking and user prompts
